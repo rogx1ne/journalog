@@ -15,7 +15,7 @@ This is a simple, offline-first personal journal application built with React, T
 
 
 
-![App Screenshot in Dark Mode](screenshots/app-dark.png)
+![App Screenshot in Dark Mode](screenshots/Screenshot From 2025-11-06 16-21-07.png)
 
 ## 🛠️ Tech Stack
 
