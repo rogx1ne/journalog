@@ -13,7 +13,7 @@ This is a simple, offline-first personal journal application built with React, T
 
 ## 📸 App Preview
 
-*(To create a screenshot: Run your app, take a picture, save it in a folder named `screenshots` in your project, and then change the path below)*
+
 
 ![App Screenshot in Dark Mode](screenshots/app-dark.png)
 
