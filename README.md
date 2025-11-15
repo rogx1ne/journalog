@@ -31,7 +31,7 @@ To run this project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/my-journal.git](https://github.com/your-username/my-journal.git)
+    git clone https://github.com/rogx1ne/my-journal
     cd my-journal
     ```
 
