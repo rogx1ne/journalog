@@ -5,7 +5,6 @@ import EntryModal from './components/EntryModal';
 import Header from './components/Header';
 import NewEntryModal from './components/NewEntryModal'; 
 import TypingAnimation from './components/TypingAnimation';
-import { Settings } from 'lucide-react'; 
 import SettingsDrawer from './components/SettingsDrawer';
 
 const initializeTheme = (): string => {
